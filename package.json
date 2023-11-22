@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "oai",
+  "version": "1.0.0",
+  "description": "testing open ai API",
+  "main": "basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivukotic/oai.git"
+  },
+  "author": "Ilija Vukotic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivukotic/oai/issues"
+  },
+  "homepage": "https://github.com/ivukotic/oai#readme",
+  "dependencies": {
+    "openai": "^4.20.0"
+  }
+}
